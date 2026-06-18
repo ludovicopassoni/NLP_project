@@ -1,0 +1,15 @@
+EMNLP (Empirical Methods in Natural Language Processing) is a 
+premier conference covering empirical methods and applications 
+in natural language processing. Relevant topics include 
+computational social science and cultural analytics, dialogue 
+and interactive systems, discourse and pragmatics, low-resource 
+methods for NLP, ethics bias and fairness, text generation, 
+information extraction, information retrieval and text mining, 
+interpretability and analysis of models for NLP, linguistic 
+theories and cognitive modeling, machine learning for NLP, 
+machine translation, multilinguality and language diversity, 
+multimodality and language grounding, phonology morphology and 
+word segmentation, question answering, resources and evaluation, 
+semantics and textual inference, sentiment analysis and argument 
+mining, speech processing, summarization, syntax tagging and 
+parsing, and NLP applications.
